@@ -5,6 +5,7 @@
 body {
   font-family: 'Roboto Mono', monospace;
  // background-color: #c2e6e8;
+   box-shadow: 3px 3px white inset;
 }
 
 #root {
